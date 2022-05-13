@@ -16,7 +16,7 @@ namespace HomeWork
             login.Click();
         }
 
-        public void GoToReguistrationPage()
+        public void GoToRegistrationPage()
         {
             createButton.Click();
         }
